@@ -1,0 +1,75 @@
+{
+    "fruits": [
+      {
+        "id": 1,
+        "name": "Tomato",
+        "price": "1.32$",
+        "weight": "125g",
+        "image": "https://img.freepik.com/vecteurs-libre/tomates-fraiches_1053-566.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Strawberry",
+        "price": "0.42$",
+        "weight": "20g",
+        "image": "https://www.princedebretagne.com/sites/default/files/styles/540x350/public/2020-05/fraise-magnum.jpg?itok=scSCEO62"
+      },
+      {
+        "id": 3,
+        "name": "Apple",
+        "price": "1.32$",
+        "weight": "125g",
+        "image": "https://www.academiedugout.fr/images/17157/1200-auto/pomme_000.jpg?poix=50&poiy=50"
+      },
+      {
+        "id": 4,
+        "name": "Orange",
+        "price": "2.49$",
+        "weight": "213g",
+        "image": "https://assets.shop.loblaws.ca/products/20287659001/b1/en/front/20287659001_front_a01_@2.png"
+      },
+      {
+        "id": 5,
+        "name": "Banana",
+        "price": "0.69$",
+        "weight": "164g",
+        "image": "https://mobile-img.lpcdn.ca/v2/924x/36aa287b/d256726e46bd39cbaf70cdad107da919.jpg"
+      },
+      {
+        "id": 6,
+        "name": "raspberry",
+        "price": "4.89$",
+        "weight": "15g",
+        "image": "https://www.diggers.com.au/cdn/shop/products/raspberry-heritage-autumn-primocane-wrah_a0c33933-9b64-42fd-af2b-9faf8667ed38_1200x.jpg?v=1637121084"
+      },
+      {
+        "id": 7,
+        "name": "Peach",
+        "price": "3.64$",
+        "weight": "179g",
+        "image": "https://www.canada.ca/content/dam/phac-aspc/images/services/public-health-notices/2020/peaches.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Blueberry",
+        "price": "0.23$",
+        "weight": "15g",
+        "image": "data:image/jpeg;base64,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QEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERA//2Q=="
+      },
+      {
+        "id": 9,
+        "name": "Pinapple",
+        "price": "2.37$",
+        "weight": "865g",
+        "image": "https://assets.shop.loblaws.ca/products/20160992001/b2/en/front/20160992001_front_a06_@2.png"
+      },
+      {
+        "id": 10,
+        "name": "Watermelon",
+        "price": "2.25$",
+        "weight": "727g",
+        "image": "https://assets.shop.loblaws.ca/products/20145379001/b2/en/front/20145379001_front_a06_@2.png"
+      }
+    ]
+  }
+  
